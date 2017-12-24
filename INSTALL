@@ -1,0 +1,5 @@
+Building Hush
+
+See the Hush github wiki (https://github.com/hush/hush/wiki) for instructions on building hushd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hush.
